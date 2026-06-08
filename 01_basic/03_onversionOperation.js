@@ -21,5 +21,19 @@ console.log(booleanIsLoggedIn)
 
 let somenumber = 33
 let isString = String(somenumber)
-console.log(isString);
-console.log(typeof isString);
+// console.log(isString);
+//console.log(typeof isString);
+
+let value = 3
+let negvalue = -value 
+// console.log(negvalue)
+
+let str1 = "hello"
+let str2 = " Tanush"
+let str3 = str1 + str2 
+console.log(str3);
+console.log("1" + 2);
+console.log(1 + "2");
+console.log("1" + 2 + 2);
+console.log(1 + 2 + "2");
+ 
